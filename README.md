@@ -1,4 +1,4 @@
-##  "A Bookworm’s To-Do List for Stories!
+##  A Bookworm’s To-Do List for Stories!
 A cute lil' bookshelf made with Flask, where I can add books, edit their ✨vibes✨ (ratings), and delete the ones I’m done with! Because every story deserves a space—even in a minimalist app!"
 
 Read. Rate. Repeat.
